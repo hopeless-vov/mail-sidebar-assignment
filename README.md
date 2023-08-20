@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Tailwind
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Creating a sidebar similar to navigation in mail for the purpose of familiarization and practice of new technologies.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+The purpose of the task was:
+- Create a sidebar with additional tabs.
+- Add "Channels" tab.
+- Add search by channels, with the ability to turn off notifications.
+- Add channel management with the ability to change their sorting, create or delete a channel.
